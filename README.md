@@ -5,7 +5,7 @@
 * [2022년](https://github.com/ParkIlHoon/ParkIlHoon/blob/main/todo-list/2022.md)
 
 ### GitHub Stats 📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkIlHoon)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkIlHoon&show_icons=true)
 
 
 <!--
