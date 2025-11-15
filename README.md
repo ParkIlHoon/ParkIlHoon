@@ -1,24 +1,27 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkIlHoon&count_bg=%2379C83D&title_bg=%23555555&icon=codeforces.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi there 👋, my name is Ilhoon, Park.
+#### I am a Backend Developer
+Based in South Korea with strong design capabilities, excellent documentation skills, and a proven track record of effective collaboration.
 
-### TODO List 📝
-* [2023년](https://github.com/ParkIlHoon/ParkIlHoon/blob/main/todo-list/2023.md)
-* [2022년](https://github.com/ParkIlHoon/ParkIlHoon/blob/main/todo-list/2022.md)
+##### 아카넷
+> 2017.10 ~ 2021.03 (3 Years 6 Months)
+* Created onboarding documentation for new developers and conducted technical Q&A sessions
+* Developed common frameworks and shared components
+##### NHN Soft
+> 2021.04 ~ 2022.09 (1 Years 5 Months)
+* Backend development for NHN Group services
+##### NHN Edu
+> 2022.10 ~
+* Led design and development of new key features
+* Drove technical direction by leading the entire process from evaluating new technologies to adoption, implementation, and team-wide dissemination
+* Mentored junior developers from other tech stacks on Java-based practical development approaches, workflows, and methodologies
+* Led internal improvement initiatives to resolve technical debt and enhance code quality within the team
 
-### GitHub Stats 📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkIlHoon&show_icons=true)
+
+Skills: Java | Kotlin | Spring | Docker | Kubernetes
 
 
-<!--
-**ParkIlHoon/ParkIlHoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ParkIlHoon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://logical-code.tistory.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://youtu.be/kZnWWq_HzdM?si=vh4OfZnh1ZSVbPAL)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkIlHoon&show_icons=true)  
+
