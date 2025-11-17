@@ -7,7 +7,7 @@ Based in South Korea with strong design capabilities, excellent documentation sk
 * Created onboarding documentation for new developers and conducted technical Q&A sessions
 * Developed common frameworks and shared components
 ##### NHN Soft
-> 2021.04 ~ 2022.09 (1 Years 5 Months)
+> 2021.04 ~ 2022.09 (1 Years 6 Months)
 * Backend development for NHN Group services
 ##### NHN Edu
 > 2022.10 ~
