@@ -10,7 +10,7 @@ Based in South Korea with strong design capabilities, excellent documentation sk
 > 2021.04 ~ 2022.09 (1 Years 6 Months)
 * Backend development for NHN Group services
 ##### NHN Edu
-> 2022.10 ~
+> 2022.10 ~ 2026.02 (3 Years 5 Months)
 * Led design and development of new key features
 * Drove technical direction by leading the entire process from evaluating new technologies to adoption, implementation, and team-wide dissemination
 * Mentored junior developers from other tech stacks on Java-based practical development approaches, workflows, and methodologies
